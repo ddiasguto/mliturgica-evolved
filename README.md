@@ -14,16 +14,17 @@ In this version, users can create their accounts and submit their own chants to 
 As this project did not gain traction within the Catholic community of Formosa-GO, the Firebase project has been deleted, and the code is now publicly available under the MIT license.
 
 | Screenshot 1 | Screenshot 2 | 
-| -------- | -------- | -
+| -------- | -------- | 
 |<img src="screenshots/screenshot1.jpg" width="300">|<img src="screenshots/screenshot2.jpg" width="300">
 
 |  Screenshot 3 | Screenshot 4 |
-
+| -------- | -------- | 
 |<img src="screenshots/screenshot3.jpg" width="300">|<img src="screenshots/screenshot4.jpg" width="300">|
 
 | Screenshot 5 |  Screenshot 6 |
-
+| -------- | -------- | 
 |<img src="screenshots/screenshot5.jpg" width="300">|<img src="screenshots/screenshot6.jpg" width="300">|
 
 | Screenshot 7 |
+| -------- | 
 |<img src="screenshots/screenshot7.jpg" width="300">|
