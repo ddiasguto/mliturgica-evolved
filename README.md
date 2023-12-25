@@ -1,4 +1,4 @@
-#Pt-BR
+# Pt-BR
 
 Versão evoluída e finalizada da aplicação armazenada em: [repositorio mliturgica](https://github.com/ddiasguto/mliturgica). 
 Nessa versão, os usuários podem criar suas contas e enviarem seus próprios cânticos a fim de compartilharem com outros membros de sua respectiva equipe de canto. 
@@ -6,7 +6,7 @@ Nessa versão, os usuários podem criar suas contas e enviarem seus próprios c�
 Uma vez que tal projeto não teve adesão da comunidade católica de Formosa-GO, o projeto no 
 Firebase foi desativado e o código está agora público sob a licença MIT.
 
-#EN
+# EN
 
 Evolved and finalized version of the application stored at: [repository mliturgica](https://github.com/ddiasguto/mliturgica).
 In this version, users can create their accounts and submit their own chants to share with other members of their respective singing teams.
